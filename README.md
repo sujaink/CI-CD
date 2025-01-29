@@ -1,4 +1,4 @@
-# ckncksnck ksndsknkn The  Reddit Clone App on the Kubernetes
+# cksnck ksndsknkn The  Reddit Clone App on the Kubernetes
 Test 200
 
 
